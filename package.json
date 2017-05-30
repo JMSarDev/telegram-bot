@@ -1,0 +1,31 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Personal Telegram Bot",
+  "main": "src/index.js",
+  "dependencies": {
+    "telegraf": "^3.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMSarDev/telegram-bot.git"
+  },
+  "keywords": [
+    "js",
+    "bot",
+    "telegram"
+  ],
+  "author": "José Miguel Sarasola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMSarDev/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/JMSarDev/telegram-bot#readme"
+}
